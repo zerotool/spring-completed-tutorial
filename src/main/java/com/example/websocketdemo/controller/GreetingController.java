@@ -1,4 +1,4 @@
-package com.example.servingwebcontent;
+package com.example.websocketdemo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
